@@ -1,0 +1,12 @@
+Epochs are 10 
+
+Epoch 0: 0 / 10000
+Epoch 1: 0 / 10000
+Epoch 2: 0 / 10000
+Epoch 3: 0 / 10000
+Epoch 4: 0 / 10000
+Epoch 5: 0 / 10000
+Epoch 6: 0 / 10000
+Epoch 7: 0 / 10000
+Epoch 8: 0 / 10000
+Epoch 9: 0 / 10000
