@@ -34,6 +34,9 @@ class Network:
         samples = len(training_data)
     
         if test_data:
+            #print(test_data.head(5), '\n', test_data.tail(5),'\n')
+            print('type data ', type(test_data), '\n')
+            print('shape data', np.shape(test_data) , '\n')
             test_data = list(test_data)
             n_test = len(test_data)
         
